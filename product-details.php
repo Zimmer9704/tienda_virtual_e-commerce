@@ -425,11 +425,11 @@ $num=mysqli_num_rows($rt);
 								<span class="social-label">Compartir:</span>
 								<div class="social-icons">
 						            <ul class="list-inline">
-						                <li><a class="fa fa-facebook" href="https://facebook.com/platea21"></a></li>
-						                <li><a class="fa fa-twitter" href="https://facebook.com/platea21"></a></li>
-						                <li><a class="fa fa-linkedin" href="https://facebook.com/platea21"></a></li>
-						                <li><a class="fa fa-rss" href="https://facebook.com/platea21"></a></li>
-						                <li><a class="fa fa-pinterest" href="https://facebook.com/platea21"></a></li>
+						                <li><a class="fa fa-facebook" href="https://facebook.com/"></a></li>
+						                <li><a class="fa fa-twitter" href="https://twitter.com/"></a></li>
+						                <li><a class="fa fa-linkedin" href="https://linkedin.com/"></a></li>
+						                <li><a class="fa fa-rss" href="https://facebook.com/"></a></li>
+						                <li><a class="fa fa-pinterest" href="https://pinterest.com/"></a></li>
 						            </ul><!-- /.social-icons -->
 						        </div>
 							</div>
