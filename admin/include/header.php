@@ -6,7 +6,7 @@
 				</a>
 
 			  	<a class="brand" href="index.html">
-			  		Tienda Virtual Platea21 | Admin
+			  		Forrajera de los Llanos - Online | Admin
 			  	</a>
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
