@@ -19,7 +19,7 @@ echo "<script>alert('Your info has been updated');</script>";
 	}
 
 
-date_default_timezone_set('America/Lima');// change according timezone
+date_default_timezone_set('America/Mexico_City');// change according timezone
 $currentTime = date( 'd-m-Y h:i:s A', time () );
 
 
